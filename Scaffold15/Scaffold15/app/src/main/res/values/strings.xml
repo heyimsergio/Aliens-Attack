@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Scaffold</string>
+    <string name="title_activity_main">title</string>
+    <string name="hello_world">Hello</string>
+    <string name="pause">Game paused</string>
+    <string name="start">JUGAR</string>
+    <string name="game_title">Alien´s attack</string>
+    <string name="pause_dialog_title">pause title</string>
+    <string name="pause_dialog_message">pause message</string>
+    <string name="resume">resume</string>
+    <string name="eligenave">ELIGE TU NAVE</string>
+    <string name="hechopor">Desarrollado por Daniel Jiménez Pacheco y Sergio Plaza Larrosa</string>
+    <string name="stop">stop</string>
+</resources>
